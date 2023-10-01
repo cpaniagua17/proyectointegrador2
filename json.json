@@ -1,0 +1,373 @@
+
+{
+
+    "aceites" : [
+    {
+        "nombre": "Aceite de Almendra",
+        "id": "1",
+        "descripcion": "Suave y nutritivo, adecuado para todo tipo de piel.",
+        "imagen": "./img/aceite_almendra.jpg",
+        "precio": 15.99,
+        "puntuacion": "★★★★★"
+    },
+    {
+        "nombre": "Aceite de Jojoba",
+        "id": "2",
+        "descripcion": "Equilibra la producción de sebo de la piel y es un buen humectante.",
+        "imagen": "./img/aceite_jojoba.jpg",
+        "precio": 19.99,
+        "puntuacion": "★★★★☆"
+    },
+    {
+        "nombre": "Aceite de Jojoba Organico",
+        "id": "3",
+        "descripcion": "Orgánico y versátil, ideal para el cuidado de la piel y el cabello.",
+        "imagen": "./img/aceite_jojoba_organico.jpg",
+        "precio": 24.99,
+        "puntuacion": "★★★★★"
+    },
+    {
+        "nombre": "Aceite Esencial de Eucalipto",
+        "id": "4",
+        "descripcion": "Con un aroma refrescante, ideal para la aromaterapia y aliviar la congestión.",
+        "imagen": "./img/aceite_eucalipto.jpg",
+        "precio": 12.99,
+        "puntuacion": "★★★☆☆"
+    },
+    {
+        "nombre": "Aceite de Argan Puro",
+        "id": "5",
+        "descripcion": "Rico en antioxidantes y ácidos grasos, excelente para el cuidado de la piel y el cabello.",
+        "imagen": "./img/aceite_argan_puro.jpg",
+        "precio": 29.99,
+        "puntuacion": "★★★★★"
+    },
+    {
+        "nombre": "Aceite Esencial de Lavanda",
+        "id": "6",
+        "descripcion": "Con un aroma relajante, es ideal para la aromaterapia y cuidado de la piel.",
+        "imagen": "./img/aceite_lavanda.jpg",
+        "precio": 14.99,
+        "puntuacion": "★★★★☆"
+    },
+    {
+        "nombre": "Aceite de Coco Organico",
+        "id": "7",
+        "descripcion": "Hidratante y versátil, se utiliza para la piel y el cabello.",
+        "imagen": "./img/aceite_coco.jpg",
+        "precio": 9.99,
+        "puntuacion": "★★★★★"
+    },
+    {
+        "nombre": "Aceite de Calendula",
+        "id": "8",
+        "descripcion": "Calma la piel sensible y ayuda en problemas cutáneos.",
+        "imagen": "./img/aceite_calendula.jpg",
+        "precio": 17.99,
+        "puntuacion": "★★★★★"
+    },
+    {
+        "nombre": "Aceite de Ricino",
+        "id": "9",
+        "descripcion": "Con propiedades acondicionadoras, es ideal para el cabello y las pestañas.",
+        "imagen": "./img/aceite_ricino.jpg",
+        "precio": 11.99,
+        "puntuacion": "★★★★☆"
+    },
+    {
+        "nombre": "Aceite de Te de Arbol",
+        "id": "10",
+        "descripcion": "Con propiedades antibacterianas, es útil para problemas de la piel.",
+        "imagen": "./img/aceite_te.jpg",
+        "precio": 13.99,
+        "puntuacion": "★★★☆☆"
+    },
+    {
+        "nombre": "Aceite de Manzanilla",
+        "id": "11",
+        "descripcion": "El Aceite de Manzanilla es un aliado natural para tu piel. Este aceite suave y reconfortante es ampliamente reconocido por su capacidad para calmar la piel irritada y enrojecida. Además de su acción antiinflamatoria, la Manzanilla aporta un aroma suave y relajante. Su uso es especialmente recomendado para pieles sensibles y como un remedio tradicional para aliviar diversos problemas cutáneos.",
+        "imagen": "./img/aceite_manzanilla.jpg",
+        "precio": 16.99,
+        "puntuacion": "★★★★☆"
+    },
+    {
+        "nombre": "Aceite de Rosa Mosqueta",
+        "id": "12",
+        "descripcion": "El Aceite de Rosa Mosqueta es una joya de la naturaleza para el cuidado de la piel. Reconocido por sus propiedades regeneradoras, este aceite es especialmente eficaz en la reducción de cicatrices y estrías. Su alto contenido de ácidos grasos esenciales y antioxidantes lo convierten en una opción preferida para mejorar la apariencia de la piel dañada. Añade este aceite a tu rutina de cuidado de la piel para lograr una piel radiante y saludable.",
+        "imagen": "./img/aceite_rosa.jpg",
+        "precio": 22.99,
+        "puntuacion": "★★★★★"
+    },
+     {
+        "nombre": "Aceite de Onagra",
+        "id": "13",
+        "descripcion": "El Aceite de Onagra es un aliado natural para abordar problemas hormonales y de la piel. Este aceite versátil contiene ácidos grasos esenciales que pueden ayudar a equilibrar las hormonas y mejorar la salud de la piel. Su aplicación regular puede contribuir a reducir el acné y otros trastornos cutáneos relacionados con desequilibrios hormonales. Descubre los beneficios de la Onagra y revitaliza tu piel de forma natural.",
+        "imagen": "./img/aceite_onagra.jpg",
+        "precio": 18.99,
+        "puntuacion": "★★★☆☆"
+    },  
+    {
+        "nombre": "Aceite de Albaricoque",
+        "id": "14",
+        "descripcion": "El Aceite de Albaricoque es suave y ligero, perfecto para hidratar la piel sin obstruir los poros. Es una opción popular para el masaje y el cuidado de la piel facial.",
+        "imagen": "./img/aceite_albaricoque.jpg",
+        "precio": 18.99,
+        "puntuacion": "★★★★☆"
+    },
+    {
+        "nombre": "Aceite de Sandalo",
+        "id": "15",
+        "descripcion": "El Aceite de Sándalo tiene un aroma cálido y terroso, y se utiliza comúnmente en aromaterapia para promover la relajación y la claridad mental. También es beneficioso para la piel seca y agrietada.",
+        "imagen": "./img/aceite_sandalo.jpg",
+        "precio": 21.99,
+        "puntuacion": "★★★★☆"
+    }
+],
+
+
+"jabones": [
+        {
+            "nombre": "Jabon de Aloe Vera",
+            "id": "16",
+            "descripcion": "El jabón de aloe vera es conocido por sus propiedades hidratantes y suavizantes. Ayuda a calmar la piel y es adecuado para todo tipo de piel.",
+            "imagen": "./img/jabon_aloe.jpg",
+            "precio": 9.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Jabon de calendula",
+            "id": "17",
+            "descripcion": "El jabón de caléndula es suave y adecuado para pieles sensibles. Contiene extracto de caléndula que ayuda a calmar y nutrir la piel.",
+            "imagen": "./img/jabon_calendula.jpg",
+            "precio": 8.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Jabon de Lavanda",
+            "id": "18",
+            "descripcion": "El jabón de lavanda tiene un aroma relajante y propiedades calmantes. Es ideal para la aromaterapia y para relajar la mente.",
+            "imagen": "./img/jabon_lavanda.jpg",
+            "precio": 7.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Jabon de Rosa Mosqueta",
+            "id": "19",
+            "descripcion": "El jabón de rosa mosqueta es conocido por sus propiedades regeneradoras. Ayuda a mejorar la apariencia de cicatrices y estrías.",
+            "imagen": "./img/jabon_rosa_mosqueta.jpg",
+            "precio": 12.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Jabon de Manzanilla",
+            "id": "20",
+            "descripcion": "El jabón de manzanilla calma la piel irritada y es adecuado para pieles sensibles. Tiene un aroma suave y relajante.",
+            "imagen": "./img/jabon_manzanilla.jpg",
+            "precio": 8.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Jabon de Aceite de Oliva",
+            "id":"21",
+            "descripcion": "El jabón de aceite de oliva es hidratante y rico en antioxidantes. Deja la piel suave y nutrida.",
+            "imagen": "./img/jabon_oliva.jpg",
+            "precio": 10.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Jabon de Coco",
+            "id": "22",
+            "descripcion": "El jabón de coco es suave y humectante. Es ideal para la piel seca y tiene un aroma agradable a coco.",
+            "imagen": "./img/jabon_coco.jpg",
+            "precio": 7.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Jabon de Miel",
+            "id": "23",
+            "descripcion": "El jabón de miel es nutritivo y humectante. Contiene propiedades antibacterianas y es ideal para la piel.",
+            "imagen": "./img/jabon_miel.jpg",
+            "precio": 9.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Jabon de Té Verde",
+            "id": "24",
+            "descripcion": "El jabón de té verde es refrescante y antioxidante. Ayuda a limpiar y revitalizar la piel.",
+            "imagen": "./img/jabon_teverde.jpg",
+            "precio": 8.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Jabon de Eucalipto",
+            "id":"25",
+            "descripcion": "El jabón de eucalipto tiene un aroma refrescante y es ideal para la aromaterapia. Puede ayudar a aliviar la congestión.",
+            "imagen": "./img/jabon_eucalipto.jpg",
+            "precio": 7.99,
+            "puntuacion": "★★★☆☆"
+        },
+        {
+            "nombre": "Jabon de Karito",
+            "id": "26",
+            "descripcion": "El jabón de karité es rico en manteca de karité y es hidratante. Nutre la piel y la deja suave.",
+            "imagen": "./img/jabon_karite.jpg",
+            "precio": 11.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Jabon de Almendras",
+            "id": "27",
+            "descripcion": "El jabón de almendras es suave y nutritivo, adecuado para todo tipo de piel.",
+            "imagen": "./img/jabon_almendras.jpg",
+            "precio": 9.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Jabon de Argan",
+            "id": "28",
+            "descripcion": "El jabón de argán es rico en aceite de argán y es hidratante. Nutre y revitaliza la piel.",
+            "imagen": "./img/jabon_argan.jpg",
+            "precio": 12.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Jabon de Castilla",
+            "id": "29",
+            "descripcion": "El jabón de Castilla es suave y versátil. Puede usarse en el cuerpo y para la limpieza del hogar.",
+            "imagen": "./img/jabon_castilla.jpg",
+            "precio": 8.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Jabon de Glicerina",
+            "id": "30",
+            "descripcion": "El jabón de glicerina es transparente y humectante. Es suave para la piel y puede personalizarse con aceites esenciales.",
+            "imagen": "./img/jabon_glicerina.jpg",
+            "precio": 10.99,
+            "puntuacion": "★★★★☆"
+        }
+    ],
+
+"fragancias": [
+        {
+            "nombre": "Fragancia de Lavanda",
+            "id": "31",
+            "descripcion": "Una fragancia relajante y floral con notas de lavanda fresca. Ideal para la aromaterapia y la relajación.",
+            "imagen": "./img/fragancia_lavanda.jpg",
+            "precio": 15.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Fragancia de Rosas",
+            "id": "32",
+            "descripcion": "Una fragancia dulce y romántica con el aroma de rosas frescas en plena floración. Perfecta para ambientar espacios.",
+            "imagen": "./img/fragancia_rosas.jpg",
+            "precio": 18.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Fragancia de Vainilla",
+            "id": "33",
+            "descripcion": "Una fragancia cálida y reconfortante con toques de vainilla y caramelo. Ideal para crear un ambiente acogedor.",
+            "imagen": "./img/fragancia_vainilla.jpg",
+            "precio": 14.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Fragancia de Limon",
+            "id":" 34",
+            "descripcion": "Una fragancia fresca y cítrica con notas de limón y bergamota. Perfecta para revitalizar y energizar el entorno.",
+            "imagen": "./img/fragancia_limon.jpg",
+            "precio": 12.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Fragancia de Sandalo",
+            "id":" 35",
+            "descripcion": "Una fragancia exótica y misteriosa con el aroma suave y amaderado del sándalo. Ideal para momentos de meditación.",
+            "imagen": "./img/fragancia_sandalo.jpg",
+            "precio": 19.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Fragancia de Coco",
+            "id": "36",
+            "descripcion": "Una fragancia tropical y refrescante con toques de coco y piña. Te transportará a la playa en un instante.",
+            "imagen": "./img/fragancia_coco.jpg",
+            "precio": 16.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Fragancia de Jazmín",
+            "id": "37",
+            "descripcion": "Una fragancia floral y seductora con el aroma dulce y embriagador del jazmín en plena floración.",
+            "imagen": "./img/fragancia_jazmin.jpg",
+            "precio": 17.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Fragancia de Pino",
+            "id": "38",
+            "descripcion": "Una fragancia fresca y herbal con notas de pino y eucalipto. Perfecta para ambientar espacios al aire libre.",
+            "imagen": "./img/fragancia_pino.jpg",
+            "precio": 13.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Fragancia de Naranja",
+            "id": "39",
+            "descripcion": "Una fragancia cítrica y revitalizante con toques de naranja y mandarina. Ideal para crear un ambiente alegre.",
+            "imagen": "./img/fragancia_naranja.jpg",
+            "precio": 12.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Fragancia de Eucalipto",
+            "id": "40",
+            "descripcion": "Una fragancia refrescante y herbal con el aroma característico del eucalipto. Ayuda a respirar mejor.",
+            "imagen": "./img/fragancia_eucalipto.jpg",
+            "precio": 14.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Fragancia de Canela",
+            "id": "41",
+            "descripcion": "Una fragancia especiada y cálida con toques de canela y clavo. Ideal para crear un ambiente acogedor en invierno.",
+            "imagen": "./img/fragancia_canela.jpg",
+            "precio": 15.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Fragancia de Manzana",
+            "id": "42",
+            "descripcion": "Una fragancia fresca y frutal con el aroma jugoso de las manzanas maduras. Perfecta para ambientar cocinas.",
+            "imagen": "./img/fragancia_manzana.jpg",
+            "precio": 13.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Fragancia de Menta",
+            "id": "43",
+            "descripcion": "Una fragancia refrescante y vigorizante con notas de menta y hierbabuena. Ideal para despertar los sentidos.",
+            "imagen": "./img/fragancia_menta.jpg",
+            "precio": 12.99,
+            "puntuacion": "★★★★★"
+        },
+        {
+            "nombre": "Fragancia de cafe",
+            "id": "44",
+            "descripcion": "Una fragancia exótica y misteriosa con el aroma suave y amaderado del sándalo. Ideal para momentos de meditación.",
+            "imagen": "./img/fragancia_cafe.jpg",
+            "precio": 19.99,
+            "puntuacion": "★★★★☆"
+        },
+        {
+            "nombre": "Fragancia de pomelo",
+            "id": "45",
+            "descripcion": "Una fragancia tropical y refrescante con toques de coco y piña. Te transportará a la playa en un instante.",
+            "imagen": "./img/fragancia_pomelo.jpg",
+            "precio": 16.99,
+            "puntuacion": "★★★★☆"
+        }
+    ]
+} 
